@@ -49,7 +49,7 @@ global.location = process.env.LOCATION || "Nigeria, Akure, Akungba";
 
 
 //~~~~~~~~<Session and Bot Details>~~~~~~~~~~~~~\\
-global.SESSION_ID = process.env.SESSION_ID || '';
+global.SESSION_ID = process.env.SESSION_ID || 'XLICON-V4~v6oxSaba#l8gXK-gIPIMz0lUjvHjwF5zNgVKEacfujUdxElr70KA';
 
 global.botname = process.env.BOT_NAME || 'WALLYJAYTECH-MD';
 
